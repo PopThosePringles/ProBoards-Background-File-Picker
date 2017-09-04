@@ -1,7 +1,6 @@
 (class {
 
 	static init(){
-		this.PLUGIN_ID = "background_file_picker";
 		this.route = pb.data("route");
 
 		this.update_bg();
